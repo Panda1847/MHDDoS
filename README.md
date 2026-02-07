@@ -1,4 +1,11 @@
-<h1 align="center">MHDDoS - DDoS Attack Script With 56 Methods</h1>
+# MHDDoS
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Panda1847/MHDDoS)](https://github.com/Panda1847/MHDDoS/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Panda1847/MHDDoS)](https://github.com/Panda1847/MHDDoS/network)
+[![GitHub issues](https://img.shields.io/github/issues/Panda1847/MHDDoS)](https://github.com/Panda1847/MHDDoS/issues)
+[![Language](https://img.shields.io/badge/language-Python-blue.svg)](https://github.com/Panda1847/MHDDoS)
+
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
 
 <p align="center">
